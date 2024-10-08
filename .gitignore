@@ -1,5 +1,6 @@
 # ignore my GCP secret file 
 gcp_secret.json
+gcp_secret_2.json
 
 
 # Byte-compiled / optimized / DLL files
